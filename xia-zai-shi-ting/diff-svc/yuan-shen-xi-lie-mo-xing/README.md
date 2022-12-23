@@ -19,4 +19,13 @@ description: 请先选择国家
 
 ### 选择国家
 
-<table><thead><tr><th align="center">国家</th><th align="center">链接</th><th data-type="files"></th></tr></thead><tbody><tr><td align="center">蒙德</td><td align="center"><a href="meng-de.md">点我访问</a></td><td><a href="../../../.gitbook/assets/蒙德.svg">蒙德.svg</a></td></tr><tr><td align="center">璃月</td><td align="center"><a href="li-yue.md">点我访问</a></td><td></td></tr><tr><td align="center">稻妻</td><td align="center"><a href="dao-qi.md">点我访问</a></td><td></td></tr><tr><td align="center">须弥</td><td align="center"><a href="xu-mi.md">点我访问</a></td><td></td></tr><tr><td align="center">枫丹</td><td align="center"><a href="feng-dan.md">点我访问</a></td><td></td></tr><tr><td align="center">纳塔</td><td align="center"><a href="na-ta.md">点我访问</a></td><td></td></tr><tr><td align="center">至冬</td><td align="center"><a href="zhi-dong.md">点我访问</a></td><td></td></tr><tr><td align="center">提瓦特之外</td><td align="center"><a href="ti-wa-te-zhi-wai.md">点我访问</a></td><td></td></tr></tbody></table>
+|   国家  |              链接             |
+| :---: | :-------------------------: |
+|   蒙德  |      [点我访问](meng-de.md)     |
+|   璃月  |      [点我访问](li-yue.md)      |
+|   稻妻  |      [点我访问](dao-qi.md)      |
+|   须弥  |       [点我访问](xu-mi.md)      |
+|   枫丹  |     [点我访问](feng-dan.md)     |
+|   纳塔  |       [点我访问](na-ta.md)      |
+|   至冬  |     [点我访问](zhi-dong.md)     |
+| 提瓦特之外 | [点我访问](ti-wa-te-zhi-wai.md) |
