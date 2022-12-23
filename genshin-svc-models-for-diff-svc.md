@@ -1,17 +1,25 @@
+---
+tags:
+- Diff-SVC
+- DiffSVC
+- Pre-trained Model
+- Genshin
+- Genshin Impact
+---
 # Genshin SVC Models for Diff-SVC
 
 ## 说明
 
 ### 仓库地址
 
-|             仓库             |                                       传送门                                       |
-| :------------------------: | :-----------------------------------------------------------------------------: |
-|          Diff-SVC          |                  [点此传送](https://github.com/prophesier/diff-svc)                 |
-|         44.1KHz 声码器        |                    [点此传送](https://openvpi.github.io/vocoders)                   |
-|           原神语音数据集          |                  [点此传送](https://github.com/w4123/GenshinVoice)                  |
-| Diff-SVC 原神模型训练集（如果需要自己训练） | [点此传送](https://huggingface.co/datasets/Erythrocyte/Diff-SVC\_Genshin\_Datasets) |
-|     训练所用底模（也可用于训练非原神模型）    |     [点此传送](https://huggingface.co/Erythrocyte/Diff-SVC\_Pre-trained\_Models)    |
-|           模型训练进度           |          [点此传送](https://docs.qq.com/sheet/DR2ZUR05XbHJwS2xK?tab=BB08J2)         |
+|                    仓库                     |                            传送门                            |
+| :-----------------------------------------: | :----------------------------------------------------------: |
+|                  Diff-SVC                   |      [点此传送](https://github.com/prophesier/diff-svc)      |
+|               44.1KHz 声码器                |        [点此传送](https://openvpi.github.io/vocoders)        |
+|               原神语音数据集                |      [点此传送](https://github.com/w4123/GenshinVoice)       |
+| Diff-SVC 原神模型训练集（如果需要自己训练） | [点此传送](https://huggingface.co/datasets/Erythrocyte/Diff-SVC_Genshin_Datasets) |
+|   训练所用底模（也可用于训练非原神模型）    | [点此传送](https://huggingface.co/Erythrocyte/Diff-SVC_Pre-trained_Models) |
+|                模型训练进度                 | [点此传送](https://docs.qq.com/sheet/DR2ZUR05XbHJwS2xK?tab=BB08J2) |
 
 ### 模型介绍
 
@@ -30,20 +38,20 @@
 
 ### 效果试听
 
-|  角色名 | 输入音频 | 输出音频 |
-| :--: | :--: | :--: |
-|  温迪  |      |      |
-|  钟离  |      |      |
-| 雷电将军 |      |      |
-|  流浪者 |      |      |
-|  纳西妲 |      |      |
+|  角色名  |                           输入音频                           |                           输出音频                           |
+| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   温迪   | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/in/input1.wav" controls="controls"> | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/out/Mondstadt/venti.wav" controls="controls"> |
+|   钟离   | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/in/Liyue/to_zhongli.wav" controls="controls"> | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/out/Liyue/zhongli.wav" controls="controls"> |
+| 雷电将军 | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/in/Inazuma/to_raiden.wav" controls="controls"> | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/out/Inazuma/raiden.wav" controls="controls"> |
+|  流浪者  | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/in/Sumeru/to_wanderer.wav" controls="controls"> | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/out/Sumeru/wanderer.wav" controls="controls"> |
+|  纳西妲  | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/in/Sumeru/to_nahida.wav" controls="controls"> | <audio src="https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/demo/out/Sumeru/nahida.wav" controls="controls"> |
 
 ### 下载地址
 
-|  角色名 |                                                         下载地址                                                         |
-| :--: | :------------------------------------------------------------------------------------------------------------------: |
-|  温迪  |   [venti.zip](https://huggingface.co/Erythrocyte/Diff-SVC\_Genshin\_Models/resolve/main/models/Mondstadt/venti.zip)  |
-|  钟离  |   [zhongli.zip](https://huggingface.co/Erythrocyte/Diff-SVC\_Genshin\_Models/resolve/main/models/Liyue/zhongli.zip)  |
-| 雷电将军 |   [raiden.zip](https://huggingface.co/Erythrocyte/Diff-SVC\_Genshin\_Models/resolve/main/models/Inazuma/raiden.zip)  |
-|  流浪者 | [wanderer.zip](https://huggingface.co/Erythrocyte/Diff-SVC\_Genshin\_Models/resolve/main/models/Sumeru/wanderer.zip) |
-|  纳西妲 |   [nahida.zip](https://huggingface.co/Erythrocyte/Diff-SVC\_Genshin\_Models/resolve/main/models/Sumeru/nahida.zip)   |
+|  角色名  |                           下载地址                           |
+| :------: | :----------------------------------------------------------: |
+|   温迪   | [venti.zip](https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/models/Mondstadt/venti.zip) |
+|   钟离   | [zhongli.zip](https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/models/Liyue/zhongli.zip) |
+| 雷电将军 | [raiden.zip](https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/models/Inazuma/raiden.zip) |
+|  流浪者  | [wanderer.zip](https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/models/Sumeru/wanderer.zip) |
+|  纳西妲  | [nahida.zip](https://huggingface.co/Erythrocyte/Diff-SVC_Genshin_Models/resolve/main/models/Sumeru/nahida.zip) |
