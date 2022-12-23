@@ -1,7 +1,2 @@
-# synctest
+# 请选择语言
 
-|  test1 |  test2 |  test3 |
-| :----: | :----: | :----: |
-|   zzz  |   sss  |   ee   |
-| rgrggr | ererer | ererre |
-|  rgrtt |  trtt  |  gggg  |

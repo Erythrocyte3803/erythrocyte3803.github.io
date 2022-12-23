@@ -1,3 +1,3 @@
 # Table of contents
 
-* [synctest](README.md)
+* [请选择语言](README.md)
