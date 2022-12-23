@@ -16,4 +16,6 @@
       * [至冬](xia-zai-shi-ting/diff-svc/yuan-shen-xi-lie-mo-xing/zhi-dong.md)
       * [提瓦特之外](xia-zai-shi-ting/diff-svc/yuan-shen-xi-lie-mo-xing/ti-wa-te-zhi-wai.md)
     * [其它系列模型](xia-zai-shi-ting/diff-svc/qi-ta-xi-lie-mo-xing.md)
-  * [Sovits 3.0](xia-zai-shi-ting/sovits-3.0.md)
+  * [Sovits 3.0](xia-zai-shi-ting/sovits-3.0/README.md)
+    * [原神系列模型](xia-zai-shi-ting/sovits-3.0/yuan-shen-xi-lie-mo-xing.md)
+    * [其它系列模型](xia-zai-shi-ting/sovits-3.0/qi-ta-xi-lie-mo-xing.md)
